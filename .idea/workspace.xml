@@ -1,0 +1,189 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="77ac8cca-ea98-4987-a24c-16f77473c0f5" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/PythonProjects.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DDC/Caesar output" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DDC/Transposition output" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DDC/ciphertext.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DDC/decrypt.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DDC/encrypt.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DDC/h.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DDC/keyless.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OpenCV/CamCode.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OpenCV/EmotionDet.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OpenCV/age_deploy.prototxt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OpenCV/age_net.caffemodel" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OpenCV/clrzz.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OpenCV/gad.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OpenCV/gender_deploy.prototxt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OpenCV/gender_net.caffemodel" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OpenCV/girl1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OpenCV/girl2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OpenCV/happy.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OpenCV/kid1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OpenCV/man1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OpenCV/minion.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OpenCV/opencv_face_detector.pbtxt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OpenCV/opencv_face_detector_uint8.pb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OpenCV/woman1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OpenCV/woman3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PyGame 04-22-24/1X1 PIC_VIÑAS.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PyGame 04-22-24/Game.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PyGame 04-22-24/MONEY SOUND EFFECT !!.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PyGame 04-22-24/Red Dead Redemption 2 Free Roam Music 10 (Cumberland Forest).mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PyGame 04-22-24/TheGame.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PyGame 04-22-24/Tkinter Notes" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PyGame 04-22-24/bg_2_img.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PyGame 04-22-24/bg_img.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PyGame 04-22-24/correct_img.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PyGame 04-22-24/equal_btn_img.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PyGame 04-22-24/exit_btn_img.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PyGame 04-22-24/higher_btn_img.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PyGame 04-22-24/instruction_bg.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PyGame 04-22-24/instruction_img.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PyGame 04-22-24/lower_btn_img.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PyGame 04-22-24/next_2_btn_img.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PyGame 04-22-24/next_btn_img.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PyGame 04-22-24/plant_10_img.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PyGame 04-22-24/plant_11_img.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PyGame 04-22-24/plant_12_img.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PyGame 04-22-24/plant_13_img.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PyGame 04-22-24/plant_14_img.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PyGame 04-22-24/plant_15_img.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PyGame 04-22-24/plant_16_img.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PyGame 04-22-24/plant_1_img.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PyGame 04-22-24/plant_23_img.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PyGame 04-22-24/plant_2_img.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PyGame 04-22-24/plant_3_img.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PyGame 04-22-24/plant_4_img.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PyGame 04-22-24/plant_5_img.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PyGame 04-22-24/plant_6_img.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PyGame 04-22-24/plant_7_img.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PyGame 04-22-24/plant_8_img.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PyGame 04-22-24/plant_9_img.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PyGame 04-22-24/plant_trees_btn_img.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PyGame 04-22-24/play_btn_img.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PyGame 04-22-24/reveal_1_img.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PyGame 04-22-24/reveal_2_img.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PyGame 04-22-24/reveal_btn_img.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PyGame 04-22-24/rounds_img.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PyGame 04-22-24/score_img.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PyGame 04-22-24/wrong_img.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TEST/Test.py" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 6
+}</component>
+  <component name="ProjectId" id="2f3Jd7zm51NoR9iGl24P5eB7Njd" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
+    &quot;Python.CamCode.executor&quot;: &quot;Run&quot;,
+    &quot;Python.EmotionDet.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Game.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Game2.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Test.executor&quot;: &quot;Run&quot;,
+    &quot;Python.TheGame.executor&quot;: &quot;Debug&quot;,
+    &quot;Python.ciphertext.executor&quot;: &quot;Run&quot;,
+    &quot;Python.decrypt.executor&quot;: &quot;Run&quot;,
+    &quot;Python.encrypt.executor&quot;: &quot;Run&quot;,
+    &quot;Python.gad.executor&quot;: &quot;Run&quot;,
+    &quot;Python.keyless.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-js-predefined-1d06a55b98c1-74d2a5396914-JavaScript-PY-241.14494.241" />
+        <option value="bundled-python-sdk-0509580d9d50-28c9f5db9ffe-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-241.14494.241" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="77ac8cca-ea98-4987-a24c-16f77473c0f5" name="Changes" comment="" />
+      <created>1713023914329</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1713023914329</updated>
+      <workItem from="1713023914425" duration="125000" />
+      <workItem from="1713024050329" duration="5051000" />
+      <workItem from="1713029218417" duration="1233000" />
+      <workItem from="1713144974700" duration="3620000" />
+      <workItem from="1713232546717" duration="602000" />
+      <workItem from="1713250741574" duration="1346000" />
+      <workItem from="1713695247225" duration="2265000" />
+      <workItem from="1713709533476" duration="1366000" />
+      <workItem from="1713744103159" duration="9940000" />
+      <workItem from="1713754133553" duration="9175000" />
+      <workItem from="1713763427902" duration="561000" />
+      <workItem from="1714703359405" duration="192000" />
+      <workItem from="1715317027652" duration="2704000" />
+      <workItem from="1715901626640" duration="137000" />
+      <workItem from="1715904685827" duration="1567000" />
+      <workItem from="1715907369675" duration="3175000" />
+      <workItem from="1716510550222" duration="2236000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/PythonProjects$encrypt.coverage" NAME="encrypt Coverage Results" MODIFIED="1715905988396" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/DDC" />
+    <SUITE FILE_PATH="coverage/PythonProjects$decrypt.coverage" NAME="decrypt Coverage Results" MODIFIED="1715905167958" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/DDC" />
+    <SUITE FILE_PATH="coverage/PythonProjects$Game2.coverage" NAME="Game2 Coverage Results" MODIFIED="1713754601222" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/PyGame 04-22-24" />
+    <SUITE FILE_PATH="coverage/PythonProjects$TheGame.coverage" NAME="TheGame Coverage Results" MODIFIED="1713763981861" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/PyGame 04-22-24" />
+    <SUITE FILE_PATH="coverage/PythonProjects$keyless.coverage" NAME="keyless Coverage Results" MODIFIED="1716512131987" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/DDC" />
+    <SUITE FILE_PATH="coverage/PythonProjects$Test.coverage" NAME="Test Coverage Results" MODIFIED="1715317106443" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/TEST" />
+    <SUITE FILE_PATH="coverage/PythonProjects$gad.coverage" NAME="gad Coverage Results" MODIFIED="1714703444753" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/OpenCV" />
+    <SUITE FILE_PATH="coverage/PythonProjects$CamCode.coverage" NAME="CamCode Coverage Results" MODIFIED="1714703424372" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/OpenCV" />
+    <SUITE FILE_PATH="coverage/PythonProjects$Game.coverage" NAME="Game Coverage Results" MODIFIED="1713747842887" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/PyGame 04-22-24" />
+    <SUITE FILE_PATH="coverage/PythonProjects$EmotionDet.coverage" NAME="EmotionDet Coverage Results" MODIFIED="1714703435819" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/OpenCV" />
+    <SUITE FILE_PATH="coverage/PythonProjects$ciphertext.coverage" NAME="ciphertext Coverage Results" MODIFIED="1716511491543" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/DDC" />
+  </component>
+</project>

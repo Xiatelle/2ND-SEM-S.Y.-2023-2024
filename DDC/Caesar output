@@ -1,0 +1,38 @@
+Decrypt(D) or Encrypt(E): E
+Enter Key (1-25): 15
+Enter the message: HELLO
+=========================
+Encrypted message: WTAAD
+Continue? (Y/N): Y
+=========================
+Decrypt(D) or Encrypt(E): D
+Enter Key (1-25): 15
+Enter the message: WTAAD
+=========================
+Decrypted message: HELLO
+
+Decrypt(D) or Encrypt(E): E
+Enter Key (1-25): 25
+Enter the message: UE IS FUN
+=========================
+Encrypted message: TD HR ETM
+Continue? (Y/N): Y
+=========================
+Decrypt(D) or Encrypt(E): D
+Enter Key (1-25): 25
+Enter the message: TD HR ETM
+=========================
+Decrypted message: UE IS FUN
+
+Decrypt(D) or Encrypt(E): E
+Enter Key (1-25): 10
+Enter the message: COMPUTER ENGINEERING
+=========================
+Encrypted message: MYWZEDOB OXQSXOOBSXQ
+Continue? (Y/N): Y
+=========================
+Decrypt(D) or Encrypt(E): D
+Enter Key (1-25): 10
+Enter the message: MYWZEDOB OXQSXOOBSXQ
+=========================
+Decrypted message: COMPUTER ENGINEERING

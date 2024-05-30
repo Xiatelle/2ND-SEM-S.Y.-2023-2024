@@ -1,0 +1,6 @@
+var = Text() : Writes a text
+var = Button() : Creates a button
+var = LabelFrame() : Creates a frame
+var = Image() : Imports an image
+var = Label() : Opens an image
+pygame.mixer.music.load() : loads the music
